@@ -10,7 +10,7 @@ def main():
                 "genre": "action"
             },
             {
-                "title": "the godfather",
+                "title": "The Godfather",
                 "genre": "crime"
             }
         ]

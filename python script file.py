@@ -6,7 +6,7 @@ def main():
         "pizza_toppings": ["CORN", "JALAPENO", "OLIVES"],
         "movies": [
             {
-                "title": "SALAAR",
+                "title": "Salaar",
                 "genre": "action"
             },
             {
